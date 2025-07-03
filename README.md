@@ -2,6 +2,12 @@
 
 A simple CLI tool to generate a video from a sequence of images (from a folder or a ZIP file). Built with Python and ffmpeg.
 
+## Demo
+
+![Demo](./ezgif-3ab5ef38eb9945.gif)
+
+This CLI tool generates a video from images in a folder or ZIP file...
+
 ## Features
 - Combine images from a folder or ZIP into a video
 - Choose video FPS or total duration
